@@ -24,6 +24,11 @@ header {
 }
 
 .blog-item {
+	padding-bottom: 30px;
+	border-bottom: 1px solid lightgray;
+}
+
+.blog-item2 {
 	padding: 30px 0;
 	border-bottom: 1px solid lightgray;
 }
